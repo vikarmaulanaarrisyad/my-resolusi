@@ -1,0 +1,3 @@
+Rencana yang telah tercapai di tahun 2022 :
++ Memahami konsep MVC dari framework Laravel
++ Memahami stuktur folder pada Vue js
